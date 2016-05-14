@@ -76,6 +76,7 @@ include("connection.php");
       if(!$con->query($query)){
         echo $con->error;
       }
+      header("Location:myexperience.php");
       }
       ?>
     </div>

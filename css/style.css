@@ -1,0 +1,13 @@
+#s-nav{
+  margin-top: 2%;
+}
+.container{
+  margin: 0px auto;
+  margin-top: 4%;
+  width: 95%;
+}
+
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+  background-color: #2bd5e7 !important;
+}
